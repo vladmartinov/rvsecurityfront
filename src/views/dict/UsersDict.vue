@@ -1,7 +1,5 @@
 <template>
-    <AConfigProvider locale="ru">
-        <RouterView />
-    </AConfigProvider>
+    UsersDict template
 </template>
 
 <script lang="ts" setup>
